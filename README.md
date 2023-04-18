@@ -1,16 +1,25 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=dogsherlock&label=VIEW_TIMES)
 
-<!--
-**dogsherlock/dogsherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am clarence, nice to meet you.
+___
 
-Here are some ideas to get you started:
+### about me 
+* **a pythonista and java software engineer**
+* **newbie in cyber security and machine learning**
+* **interested in the universe, nature, and writing**
+* **my favorite pet: puppy dogs**
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### github stats
+
+![dogsherlock's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogsherlock&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox)
+___
+
+### projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogsherlock&repo=codereading)](https://github.com/dogsherlock/codereading)
+___
+
+### top langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogsherlock&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
